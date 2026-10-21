@@ -1,5 +1,5 @@
 MANDIR=/usr/share/man
-SBINDIR=/usr/sbin
+SBINDIR=/usr/bin
 ETCDIR=/etc/make-ca
 LIBEXECDIR=/usr/libexec/make-ca
 
